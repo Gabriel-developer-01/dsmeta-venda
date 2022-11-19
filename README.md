@@ -126,6 +126,7 @@ git clone https://github.com/Gabriel-developer-01/dsmeta-vendas.git
 3. Configure as variáveis de ambiente como imagem abaixo(se for no intellij o formato ficaria assim): TWILIO_SID=[value];TWILIO_KEY=[value];TWILIO_PHONE_FROM=[value];TWILIO_PHONE_TO=[value]
 4. Execute o projeto
 ```
+Os valores das variáveis de ambietne pode-se no twilio
 ![chave e valor das variaveis de ambiente](img/key-value-environment_variables.png)
 ![variaveis de ambiente](img/environment_variables.png)
 
