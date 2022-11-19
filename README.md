@@ -41,7 +41,6 @@ Backend
 - **Intellij [IDE de sua preferência]**
 - **Hibernate JPA**
 - **React**
-- **React Router DOM**
 - **Typescript**
 - **H2 Database**
 - **Axios**
@@ -54,7 +53,6 @@ Backend
 - Acesso a banco de dados
 - Estruturar o back end no padrão camadas
   - Entities
-  - DTO
   - Services
   - Controllers
   - Repositories
@@ -114,10 +112,6 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Heroku CLI
 * NodeJS (https://nodejs.org/en/download/)
 * VS Code
-
-#### Playlist do Youtube mostrando a instalação:
-
-https://www.youtube.com/playlist?list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox
 
 <h2 id="environment-install">🧑‍🔧 Executando o projeto</h2> 
 
